@@ -200,12 +200,10 @@
 - [面试官：说说React服务端渲染怎么做？原理是什么？](https://github.com/febobo/web-interview/issues/217)
 - [面试官：说说你在使用React 过程中遇到的常见问题？如何解决?](https://github.com/febobo/web-interview/issues/218)
 
-<h3 style="text-align: center">版本控制系列</h3>
+<h3 style="text-align: center">算法</h3>
 
-- [面试官：说说你对版本管理的理解？常用的版本管理工具有哪些？](https://github.com/febobo/web-interview/issues/219)
-- [面试官：说说你对Git的理解？](https://github.com/febobo/web-interview/issues/220)
-- [面试官：说说Git中 fork, clone,branch这三个概念，有什么区别?](https://github.com/febobo/web-interview/issues/221)
-- [面试官：说说Git常用的命令有哪些？](https://github.com/febobo/web-interview/issues/222)
-- [面试官：说说Git 中 HEAD、工作树和索引之间的区别？](https://github.com/febobo/web-interview/issues/223)
-- [面试官：说说对git pull 和 git fetch 的理解？有什么区别？](https://github.com/febobo/web-interview/issues/224)
-## 👧 更多系列
+[算法学习计划](https://leetcode-cn.com/study-plan/algorithms/?progress=9z3z8pt)
+- [二分查找](https://leetcode-cn.com/problems/binary-search/)
+
+
+
